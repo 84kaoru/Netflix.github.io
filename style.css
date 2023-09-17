@@ -3,3 +3,12 @@ body{
     padding-top: 100px;
     background: black;
 }
+
+.netflix{
+    width: 140px;
+    height: 250px;
+    position: relative;
+    margin-left: 50%;
+    transform: translate(-50%);
+    background: linear-grandient(90deg, #b1060e 0, #b1060e 50px);
+}
