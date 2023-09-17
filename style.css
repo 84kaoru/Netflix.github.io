@@ -14,7 +14,7 @@ body{
 }
 
 .netflix::before,
-.netflix::after{
+.netflix::after {
     content: "";
     display: block;
     position: absolute;
