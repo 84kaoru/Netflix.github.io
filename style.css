@@ -10,7 +10,7 @@ body{
     position: relative;
     margin-left: 50%;
     transform: translate(-50%);
-    background: linear-grandient(90deg, #b1060e 0, #b1060e 50px, transparent 50px, transparent 90px, #b1060e 90px, #b1060e 140px );
+    background: linear-gradient(90deg, #b1060e 0, #b1060e 50px, transparent 50px, transparent 90px, #b1060e 90px, #b1060e 140px );
 }
 
 .netflix::before,
